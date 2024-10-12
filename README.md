@@ -3,8 +3,6 @@
 <body bgcolor="">
 <html>
               <head>
-                                      <title>
-                                           formulario de registro
                                       </title>
 </head>
 <body>
