@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <body bgcolor="">
 <html>
@@ -25,7 +25,6 @@ ingresar su  apellidos:
 <legend>datos  de su  dispositivos </legend>
 ingresar nombre del tipo de dispositivo que es :
 <input type= "text" size="30">
-<br>
 ingresar  el daño de su dispocitivo :
 <input type="text" size="30">
 <br>
@@ -52,7 +51,8 @@ Radio button
 <input type="radio">tables 
 <input type="radio"> Telefono
 <input type="radio">  y otros tipos de tecnologia 
-<textarea rows="4" cols ="30">Escribir descripción de su dispositivo  como se daño </textarea>
+<textarea rows="4" cols ="30">
+<p>Escribir descripción de su dispositivo  como se daño </textarea><p>
 <br>
 <!-- inicio del piede de pagina -->
   <div class="footer">
