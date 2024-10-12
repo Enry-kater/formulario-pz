@@ -5,7 +5,6 @@
               <head>
 </head>
 <body>
-<h1>Formulario</h1>
 <form>
 <fieldset>
 <legend>datos  personal </legend>
