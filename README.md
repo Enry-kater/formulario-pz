@@ -43,9 +43,8 @@ preciona la Opcion 1 si no eres un robot:
 <input type="checkbox">2 si soy un robot
 <br> 
 <input type="radio">Radio <p>
-<input type="radio"> Televisor,Telefono<p>
-<input type="radio">computadora,
-<input type="radio">tables<p>
+<input type="radio"> Televisory Telefono<p>
+<input type="radio">computadora,y tables<p>
 <input type="radio">  y otros tipos de tecnologia 
 <p><textarea rows="4" cols ="30">Escribir descripción de su dispositivo  como se daño </textarea>
 <br>
