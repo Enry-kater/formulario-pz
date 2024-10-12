@@ -3,7 +3,6 @@
 <body bgcolor="">
 <html>
               <head>
-                                      </title>
 </head>
 <body>
 <h1>Formulario</h1>
