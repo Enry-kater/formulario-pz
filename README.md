@@ -59,4 +59,4 @@ al selecionar enviar sus datos estan ya registrado
 
 <input type="checkbox"> cancelar 
 <fieldset>
-<li><A href="https:https://enry-kater.github.io/pagina-//"> ENVIAR </li>
+<li><A href="https://enry-kater.github.io/pagina-//">inicio</a></li>
