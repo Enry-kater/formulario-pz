@@ -2,10 +2,7 @@
 <html lang="en">
 <body bgcolor="">
 <html>
-
-https://enry-kater.github.io/venta-prue//
-
-                    <head>
+              <head>
                                       <title>
                                            formulario de registro
                                       </title>
