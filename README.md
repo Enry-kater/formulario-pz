@@ -15,7 +15,6 @@ ingresar su  nombre:
 <br>
 ingresar su  apellidos:
 <input type="text" size="30">
-<br
 </fieldset>
 <h1>dispositivo </h1>
 <form>
