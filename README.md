@@ -67,14 +67,6 @@ al selecionar enviar sus datos estan ya registrado
 <fieldset>
 
 muchas grasias al  rellenar todo sus datos solo atualizar 
-
-<a href="Base Access China.html"></a> <br> 
-	
-<A "https://enry-kater.github.io/venta-prue//">  formulario  1  </A> <br>
-    <A HREF="iindex.html"> alegre  2  </A> <br>
-
-
-
 </form>
 </body>
 </html>
