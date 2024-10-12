@@ -59,5 +59,4 @@ al selecionar enviar sus datos estan ya registrado
 
 <input type="checkbox"> cancelar 
 <fieldset>
-
-muchas grasias al  rellenar todo sus datos solo atualizar 
+<li><A href="https:https://enry-kater.github.io/pagina-//">INICIO  DE FORMULARIO </li>
