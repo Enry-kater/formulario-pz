@@ -39,7 +39,7 @@ preciona la Opcion 1 si no eres un robot:
 <input type="checkbox"> 1 no  soy un robot 
 <br>
 <input type="checkbox">2 si soy un robot
-
+<br>
 <input type="radio">Radio <p>
 <input type="radio"> Televisor y Telefono<p>
 <input type="radio">computadora y tables<p>
