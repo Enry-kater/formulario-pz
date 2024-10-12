@@ -22,7 +22,7 @@ ingresar su  apellidos:
 <fieldset>
 <legend>datos  de su  dispositivos </legend>
 ingresar nombre del tipo de dispositivo que es :
-<input type= "text" size="30">
+<input type= "text" size="30"><p></p>
 ingresar  el daño de su dispocitivo :
 <input type="text" size="30">
 <br>
