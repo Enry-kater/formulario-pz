@@ -49,8 +49,7 @@ Radio button
 <input type="radio">tables 
 <input type="radio"> Telefono
 <input type="radio">  y otros tipos de tecnologia 
-<textarea rows="4" cols ="30">
-<p>Escribir descripción de su dispositivo  como se daño </textarea><p>
+<p><textarea rows="4" cols ="30">Escribir descripción de su dispositivo  como se daño </textarea>
 <br>
 <!-- inicio del piede de pagina -->
   <div class="footer">
